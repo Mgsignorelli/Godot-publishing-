@@ -6,9 +6,9 @@ game_name: "My Awesome Game"
 
 # Godot Engine version (must match a barichello/godot-ci tag)
 # See: https://hub.docker.com/r/barichello/godot-ci/tags
-godot_version: "4.3"
+godot_version: "4.2.2"
 
 # Jekyll theme for documentation pages
 # Options: primer, slate, midnight, minimal, hacker, architect,
 #          cayman, dinky, modernist, leap-day, time-machine, merlot, tactile
-theme: "primer"
+theme: "minimal"
